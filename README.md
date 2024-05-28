@@ -1,9 +1,4 @@
 # bubble清单
-
-本项目来源知了传课：https://www.bilibili.com/video/BV1gJ411p7xC/?spm_id_from=333.999.0.0&vd_source=84fc27804252448ba51ef3b6abfd5d36
-
-笔者对代码有优化更新。
-
 一个基于gin+gorm开发的练手小项目，通过该项目可初识go web开发该有的姿势。
 
 
